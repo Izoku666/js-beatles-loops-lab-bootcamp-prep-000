@@ -23,7 +23,7 @@ function johnLennonFacts(array) // done
   return array;
 }
 
-function iLoveTheBeatles(number)
+function iLoveTheBeatles(number)  // done
 {
   var emptyArray = []
   var count = 0;
