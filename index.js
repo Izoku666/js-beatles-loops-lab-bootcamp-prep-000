@@ -1,11 +1,14 @@
 // add solution here
 
-var counter;
-var emptyArray = [];
 function theBeatlesPlay(musicians , instruments)
 {
-  for(let i = 0; i > 0; i++)
-  {}
+  var counter = 0;
+  var array = [];
   
-
+  for(let i = 0; i > 0; i++)
+  {
+    
+  }
+  
+  return 
 }
