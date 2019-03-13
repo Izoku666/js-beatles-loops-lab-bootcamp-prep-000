@@ -23,7 +23,10 @@ function johnLennonFacts(array) // done
   return array;
 }
 
-function iLoveTheBeatles(Number)
+function iLoveTheBeatles(number)
 {
-  
+  do{
+    number++;
+  }
+  while(number < 15)
 }
