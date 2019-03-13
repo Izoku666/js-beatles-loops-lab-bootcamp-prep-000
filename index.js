@@ -13,7 +13,7 @@ function theBeatlesPlay(musicians , instruments)
   return array;
 }
 
-function johnLennonFacts(array)
+function johnLennonFacts(array) // done
 {
   
   for(let i = 0; i < array.length; i++)
@@ -21,4 +21,9 @@ function johnLennonFacts(array)
     array[i] = array[i] + `!!!`;
   }
   return array;
+}
+
+function iLoveTheBeatles(Number)
+{
+  
 }
