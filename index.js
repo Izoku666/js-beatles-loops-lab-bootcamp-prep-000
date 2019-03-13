@@ -2,10 +2,14 @@
 
 function theBeatlesPlay(musicians , instruments)
 {
+  var array = [];
+  array.length = musicians.length;
   for(let i = 0; i < musicians.length - 1; i++)
   {
-    var newString = `${musicians[i]} plays ${instruments[i]}`
+    var newString = `${musicians} plays ${instruments}`
+    array[i] = newString;
   }
+  return newString;
 }
 
 function johnLennonFacts(array) // done
