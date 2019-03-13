@@ -28,7 +28,7 @@ function iLoveTheBeatles(number)
   var emptyArray = []
   var count = 0;
   do{
-    emptyArray[count] = "I lovethe Beatles!";
+    emptyArray[count] = "I love the Beatles!";
     count++;
     number++;
   }
