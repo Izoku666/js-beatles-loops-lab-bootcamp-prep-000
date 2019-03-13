@@ -4,7 +4,7 @@ function theBeatlesPlay(musicians , instruments)
 {
   var array = [];
   array.length = musicians.length;
-  for(let i = 0; i < musicians.length; i++)
+  for(let i = 0; i < musicians.length; i++) // damn you indexing
   {
    // var newString = `${musicians[i]]} plays ${instruments[i]}`;
     var newString = `${musicians[i]} plays ${instruments[i]}`
